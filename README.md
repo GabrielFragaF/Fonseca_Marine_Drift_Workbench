@@ -2,14 +2,14 @@
 
 Marine Drift Workbench is a desktop application for configuring and running reproducible reverse-drift simulations using stranding observations and environmental datasets. It provides a graphical interface to an OpenDrift-based modelling workflow, allowing researchers to explore possible offshore origins of stranded marine megafauna.
 
-The workbench accompanies the submitted manuscript by Fonseca et al., *Scalable reverse-drift framework transforms sea turtle strandings into indicators of at-sea mortality in the southwestern Atlantic*. The manuscript presents the wider framework for deriving mortality indicators; the software supports the reverse-drift modelling and trajectory-export components. Simulation outputs alone are not estimates of total mortality.
+The workbench accompanies the submitted manuscript by Fonseca et al., *Scalable reverse-drift framework transforms sea turtle strandings into indicators of at-sea mortality in the southwestern Atlantic*. The manuscript presents the wider framework for deriving mortality indicators; the software supports the reverse-drift modelling and trajectory-export components.
 
 ## Download
 
 Download the latest available package from [GitHub Releases](https://github.com/GabrielFragaF/Fonseca_Marine_Drift_Workbench/releases). Packages will be listed there when the release is published.
 
 - **Windows x64:** Extract the complete ZIP and run `Install.cmd`. The installer includes Python and the required application dependencies and creates shortcuts.
-- **macOS Apple Silicon:** Extract the ZIP and open `Marine Drift Workbench.app`. The current build requires macOS 26 or later; it was tested on macOS 26.5.2 but not on a separate clean Mac or on macOS 26.0. It is not notarized, so macOS may block its first launch. If necessary, use **System Settings > Privacy & Security > Open Anyway** for the downloaded app. Resume behavior still requires additional Mac testing.
+- **macOS Apple Silicon:** Extract the ZIP and open `Marine Drift Workbench.app`. The current build requires macOS 26 or later. It is not notarized, so macOS may block its first launch. If necessary, use **System Settings > Privacy & Security > Open Anyway** for the downloaded app.
 
 Neither package requires a separate Python installation. Environmental datasets and observation records are not included; users supply their own.
 
