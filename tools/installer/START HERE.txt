@@ -1,0 +1,44 @@
+Marine Drift Workbench 0.1.1 - Windows x64 preview
+Build: 2026-11-09-ui-validation
+
+INSTALL
+1. Extract the ENTIRE ZIP to a folder on your computer.
+2. Double-click Install.cmd. No administrator account is needed.
+3. Open Marine Drift Workbench from the desktop or Start menu.
+
+PORTABLE USE
+You may also open Marine Drift Workbench/Marine Drift Workbench.exe directly.
+Keep the executable and its entire _internal folder together.
+
+PYTHON AND DEPENDENCIES
+This package includes its own Python 3.11 runtime, OpenDrift and scientific
+libraries. No Python, Conda, pip installation or dependency download is needed.
+An existing Python 3.11 or later installation is neither used nor modified.
+This release is for 64-bit Windows on Intel/AMD, not macOS/Linux or native ARM.
+
+CHECK THE PACKAGE
+Run Verify installation.cmd for a short offline reverse-drift example and
+checks of the landmask, NetCDF, Parquet, CSV, Excel and Qt GUI. It writes its
+report and example outputs to a fresh temporary folder printed by the script.
+
+YOUR MODELLING DATA
+Supply your own observation table and appropriate environmental NetCDF files.
+The bundled libraries do not include research datasets. Select an output
+folder you can write to, outside the installation folder. Configure and review
+the scientific assumptions before running your analyses.
+
+REMOVAL
+Close the application, remove its installation folder and the desktop/Start
+menu shortcuts. Your observation files and chosen result folders are separate.
+
+RELEASE STATUS
+This is an unsigned preview build. Windows may display an unknown-publisher
+warning. Use only the package supplied by your trusted project distributor.
+Validation on another physical machine remains a release acceptance check.
+See BUILD-ENVIRONMENT.txt and THIRD-PARTY-NOTICES for dependency information.
+
+LICENSE
+Copyright (C) 2026 Gabriel Fraga da Fonseca.
+Marine Drift Workbench is free software licensed under the GNU General Public
+License version 3 or later. You may use, study, modify, and redistribute it
+under those terms. See LICENSE for the complete conditions and warranty notice.

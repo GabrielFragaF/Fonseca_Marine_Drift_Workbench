@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "marine-drift-desktop"
+version = "0.1.1"
+description = "Desktop application for local reverse-drift simulations across marine fauna stranding workflows."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "GPL-3.0-or-later"
+authors = [
+    { name = "Gabriel Fraga da Fonseca" },
+]
+dependencies = [
+    "PySide6>=6.8",
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "xarray>=2024.1",
+    "netCDF4>=1.6",
+    "opendrift>=1.13",
+    "pyarrow>=16.0",
+    "openpyxl>=3.1",
+]
+
+[project.optional-dependencies]
+package = [
+    "pyinstaller>=6.0",
+]
+
+[project.scripts]
+marine-drift-desktop = "marine_drift_desktop.main:run"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+marine_drift_desktop = ["ui/assets/icons/*.svg", "ui/assets/controls/*.svg", "ui/assets/partners/*.png", "ui/assets/*.json", "ui/assets/*.md", "ui/assets/fonts/*.ttf", "ui/assets/fonts/*.md"]

@@ -1,0 +1,23 @@
+<!-- Lucide icon: folder-output. ISC License. -->
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="url(#marine-gradient)"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <defs>
+    <linearGradient id="marine-gradient" x1="2" y1="2" x2="22" y2="22" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F2A44" />
+      <stop offset="0.55" stop-color="#287FA3" />
+      <stop offset="1" stop-color="#5FC8B5" />
+    </linearGradient>
+  </defs>
+  <path d="M2 7.5V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-1.5" />
+  <path d="M2 13h10" />
+  <path d="m5 10-3 3 3 3" />
+</svg>

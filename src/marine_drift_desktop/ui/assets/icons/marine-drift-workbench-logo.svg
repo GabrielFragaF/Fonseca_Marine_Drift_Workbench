@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1143.5 988">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        opacity: .75;
+      }
+
+      .st1 {
+        stroke-dasharray: 2 34;
+        stroke-linejoin: round;
+        stroke-width: 15px;
+      }
+
+      .st1, .st2 {
+        stroke: #fff;
+      }
+
+      .st1, .st3, .st4, .st5 {
+        fill: none;
+      }
+
+      .st1, .st4 {
+        stroke-linecap: round;
+      }
+
+      .st2 {
+        fill: #f28c5b;
+        stroke-width: 14px;
+      }
+
+      .st6 {
+        fill: #b7ead6;
+      }
+
+      .st7 {
+        fill: url(#Gradiente_sem_nome);
+      }
+
+      .st8 {
+        fill: #fffdf6;
+      }
+
+      .st9 {
+        fill: #062d4d;
+      }
+
+      .st10 {
+        fill: #f4e3ad;
+      }
+
+      .st11 {
+        fill: #2b7691;
+        opacity: .58;
+      }
+
+      .st11, .st12 {
+        isolation: isolate;
+      }
+
+      .st4 {
+        stroke: #8cc8c9;
+        stroke-dasharray: 13 15;
+        stroke-width: 5px;
+      }
+
+      .st12 {
+        fill: url(#Gradiente_sem_nome_2);
+        opacity: .94;
+      }
+
+      .st13 {
+        opacity: .7;
+      }
+
+      .st5 {
+        stroke: #d5d1a8;
+        stroke-width: 4px;
+      }
+
+      .st14 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome" data-name="Gradiente sem nome" x1="303.75" y1="913.99" x2="304.75" y2="912.99" gradientTransform="translate(-258618 853685.2737) scale(852 -934)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#075174"/>
+      <stop offset="1" stop-color="#062c4b"/>
+    </linearGradient>
+    <clipPath id="clippath">
+      <polygon class="st3" points="602 16 1037 267 1037 721 602 972 167 721 167 267 602 16"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_2" data-name="Gradiente sem nome 2" x1="303.76" y1="913.53" x2="304.76" y2="913.53" gradientTransform="translate(-268522 569389.8258) scale(884 -622.5677)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2bb7ae"/>
+      <stop offset="1" stop-color="#7bdcc9"/>
+    </linearGradient>
+  </defs>
+  <path class="st9" d="M602,0l448,259v470l-448,259-448-259v-470L602,0Z"/>
+  <path class="st7" d="M602,22l426,246v442l-426,246-426-246v-442L602,22Z"/>
+  <g class="st14">
+    <g>
+      <path class="st11" d="M0,312c235-30,305,75,364,175,57,97,103,194,221,255,86,44,205,67,338,213H0V312Z"/>
+      <path class="st12" d="M0,347c225-32,299,80,355,181,49,88,100,192,222,246,83,37,197,62,307,190H0V347Z"/>
+      <path class="st6" d="M0,388c193-29,267,70,319,166,54,100,106,198,226,246,81,32,169,61,249,165H0V388Z"/>
+      <path class="st8" d="M0,430c160-26,224,56,278,150,57,99,108,202,226,244,70,25,139,58,190,141H0V430Z"/>
+      <path class="st10" d="M0,462c129-17,181,48,231,140,57,105,114,206,228,242,58,18,108,50,141,112H0v-494Z"/>
+      <g class="st13">
+        <path class="st4" d="M270,48c180,62,154,188,370,226,175,31,244,151,501,177"/>
+        <path class="st4" d="M181,127c185,4,183,173,385,223,220,55,290,172,527,233"/>
+        <path class="st4" d="M178,244c176-17,248,114,381,201,179,117,337,132,523,307"/>
+        <path class="st4" d="M245,350c154-6,194,123,326,220,126,92,301,144,420,305"/>
+        <path class="st4" d="M334,509c100-2,157,113,260,182,110,74,250,106,331,228"/>
+      </g>
+      <g class="st0">
+        <path class="st5" d="M40,510c151-13,192,57,235,143,53,106,105,211,232,263"/>
+        <path class="st5" d="M47,563c120-8,161,50,202,134,57,117,109,202,220,250"/>
+        <path class="st5" d="M48,623c93-4,126,45,166,121,53,101,102,162,196,204"/>
+        <path class="st5" d="M71,688c69-2,96,41,132,100,39,64,84,106,150,137"/>
+      </g>
+      <path class="st1" d="M427,717c83-54,177-101,232-191,55-91,31-190,121-260,52-40,108-55,158-67"/>
+      <circle class="st2" cx="427" cy="717" r="41"/>
+      <circle class="st2" cx="928" cy="199" r="41"/>
+    </g>
+  </g>
+</svg>
