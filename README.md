@@ -6,7 +6,10 @@ The workbench accompanies the submitted manuscript by Fonseca et al., *Scalable 
 
 ## Download
 
-Download the latest available package from [GitHub Releases](https://github.com/GabrielFragaF/Fonseca_Marine_Drift_Workbench/releases). Packages will be listed there when the release is published.
+Download version 0.1.1 from [GitHub Releases](https://github.com/GabrielFragaF/Fonseca_Marine_Drift_Workbench/releases/tag/v0.1.1):
+
+- [Download for Windows x64](https://github.com/GabrielFragaF/Fonseca_Marine_Drift_Workbench/releases/download/v0.1.1/Marine-Drift-Workbench-0.1.1-Windows-x64.zip)
+- [Download for macOS Apple Silicon](https://github.com/GabrielFragaF/Fonseca_Marine_Drift_Workbench/releases/download/v0.1.1/Marine-Drift-Workbench-0.1.1-macOS-arm64.zip)
 
 - **Windows x64:** Extract the complete ZIP and run `Install.cmd`. The installer includes Python and the required application dependencies and creates shortcuts.
 - **macOS Apple Silicon:** Extract the ZIP and open `Marine Drift Workbench.app`. The current build requires macOS 26 or later. It is not notarized, so macOS may block its first launch. If necessary, use **System Settings > Privacy & Security > Open Anyway** for the downloaded app.
